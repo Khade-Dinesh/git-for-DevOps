@@ -1,0 +1,60 @@
+In short:
+
+### Git
+
+**Git** is a **version control system**.
+
+It helps you:
+
+* Track code changes
+* Save project history
+* Roll back to old versions
+* Work with branches
+
+Example:
+
+```text
+Version 1 → Version 2 → Version 3
+```
+
+Git remembers every change.
+
+Think:
+**Git = tool to manage code history on your computer**
+
+---
+
+### [GitHub](https://github.com?utm_source=chatgpt.com)
+
+**GitHub** is a **cloud platform for Git repositories**.
+
+It helps you:
+
+* Store code online
+* Backup repositories
+* Collaborate with teams
+* Share projects publicly
+
+Think:
+**GitHub = place to store Git projects online**
+
+---
+
+### Simple Difference
+
+| Git                   | GitHub              |
+| --------------------- | ------------------- |
+| Tool/software         | Cloud platform      |
+| Runs on local machine | Runs on internet    |
+| Tracks changes        | Stores repositories |
+
+Example:
+
+* Write code on laptop → **Git**
+* Push code to cloud → **GitHub**
+
+Easy way to remember:
+
+**Git = brain**
+**GitHub = cloud storage** 🚀
+
